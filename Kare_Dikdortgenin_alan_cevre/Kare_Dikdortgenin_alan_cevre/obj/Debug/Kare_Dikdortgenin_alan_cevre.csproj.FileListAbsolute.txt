@@ -1,0 +1,8 @@
+C:\Users\90551\OneDrive - karamanoglu mehmetbey üniversitesi\Masaüstü\CSharp Projeleri\Kare_Dikdortgenin_alan_cevre\Kare_Dikdortgenin_alan_cevre\bin\Debug\Kare_Dikdortgenin_alan_cevre.exe.config
+C:\Users\90551\OneDrive - karamanoglu mehmetbey üniversitesi\Masaüstü\CSharp Projeleri\Kare_Dikdortgenin_alan_cevre\Kare_Dikdortgenin_alan_cevre\bin\Debug\Kare_Dikdortgenin_alan_cevre.exe
+C:\Users\90551\OneDrive - karamanoglu mehmetbey üniversitesi\Masaüstü\CSharp Projeleri\Kare_Dikdortgenin_alan_cevre\Kare_Dikdortgenin_alan_cevre\bin\Debug\Kare_Dikdortgenin_alan_cevre.pdb
+C:\Users\90551\OneDrive - karamanoglu mehmetbey üniversitesi\Masaüstü\CSharp Projeleri\Kare_Dikdortgenin_alan_cevre\Kare_Dikdortgenin_alan_cevre\obj\Debug\Kare_Dikdortgenin_alan_cevre.csproj.AssemblyReference.cache
+C:\Users\90551\OneDrive - karamanoglu mehmetbey üniversitesi\Masaüstü\CSharp Projeleri\Kare_Dikdortgenin_alan_cevre\Kare_Dikdortgenin_alan_cevre\obj\Debug\Kare_Dikdortgenin_alan_cevre.csproj.SuggestedBindingRedirects.cache
+C:\Users\90551\OneDrive - karamanoglu mehmetbey üniversitesi\Masaüstü\CSharp Projeleri\Kare_Dikdortgenin_alan_cevre\Kare_Dikdortgenin_alan_cevre\obj\Debug\Kare_Dikdortgenin_alan_cevre.csproj.CoreCompileInputs.cache
+C:\Users\90551\OneDrive - karamanoglu mehmetbey üniversitesi\Masaüstü\CSharp Projeleri\Kare_Dikdortgenin_alan_cevre\Kare_Dikdortgenin_alan_cevre\obj\Debug\Kare_Dikdortgenin_alan_cevre.exe
+C:\Users\90551\OneDrive - karamanoglu mehmetbey üniversitesi\Masaüstü\CSharp Projeleri\Kare_Dikdortgenin_alan_cevre\Kare_Dikdortgenin_alan_cevre\obj\Debug\Kare_Dikdortgenin_alan_cevre.pdb
